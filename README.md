@@ -1,4 +1,3 @@
-# aws-ec2-cost-optimization
 # AWS EC2 Cost Optimization
 
 ## Problem
