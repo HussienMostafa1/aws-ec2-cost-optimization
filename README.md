@@ -29,15 +29,17 @@ EC2 Instance ← AWS Lambda ← Scheduled Trigger
 
 ### Before Optimization
 
-![Before](screenshots/before-cost.png)
+![Before](screenshots/Before-Optimization.png)
 
 ### After Optimization
 
-![After](screenshots/after-cost.png)
+![After](screenshots/After-Optimization.png)
 
 ### AWS Lambda Automation
 
-![Lambda](screenshots/lambda-function.png)
+![Lambda](screenshots/stop-ec2.png)
+![Lambda](screenshots/start-ec2.png)
+
 
 ## Technologies Used
 
